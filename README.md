@@ -9,3 +9,6 @@ name_of_lib: flask, tempfile, speech_recognition (speechrecognition), torch, tra
 
 нужно также скачать обученную машинку с датасетом из deeppavlov
 terminal: python -m spacy download ru_core_news_sm 
+
+ССЫЛКА НА ГУГЛ ДИСКЕ С ПРОЕКТОМ ЕСЛИ ПРОБЛЕМА С ГИТХАБОМ (не хагрухилось что-то :( )
+https://drive.google.com/drive/folders/1vwN_sehBhi9ahSjRoED68r4OCOxjZqBp?usp=sharing
